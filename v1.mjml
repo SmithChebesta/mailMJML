@@ -8,8 +8,8 @@
   </mj-head>
   <mj-body background-color="#eee">
     <mj-section padding="7px 10px">
-      <mj-group>
-        <mj-column vertical-align="middle">
+      <mj-group width="100%">
+        <mj-column vertical-align="middle" >
           <mj-image padding="0px" align="left" width="101px" height="31px" src="https://ik.imagekit.io/4thwhale/Emails/Email_1/logo_Mfc5d4XbK.png">
           </mj-image>
         </mj-column>
