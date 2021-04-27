@@ -30,17 +30,17 @@
     </mj-section>
     <mj-section padding="30px 30px" background-color="#313131">
       <mj-column>
-        <mj-text padding="0px 0px 40px" font-size="20px" color="#FFFFFF" font-weight="500"> Space for your H2 </mj-text>
+        <mj-text padding="0px 0px 20px" font-size="20px" color="#FFFFFF" font-weight="500"> Space for your H2 </mj-text>
         <mj-text padding="0px" align="left" color="#F5F5F5" font-size="14px" line-height="160%"> 
-          <ul>
-            <li >Elit duis tristique sollicitudin nibh sit amet commodo.</li>
-            <li >Tincidunt lobortis feugiat vivamus at augue eget arcu.</li>
-            <li >Nullam non nisi est sit amet facilisis.</li>
-            <li >Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat.</li>
-
-          </ul>
+          Imperdiet proin fermentum leo vel orci porta non pulvinar neque. Tempus egestas sed sed risus pretium. Mauris sit amet massa vitae tortor. Vitae elementum curabitur vitae nunc.
         </mj-text>
          <mj-button inner-padding="8px 16px" padding="30px 0px 0px" background-color="#FFC107" color="#000000" font-weight="500" font-size="16px" font-family="Roboto" border-radius="5px"> Button </mj-button>
+      </mj-column>
+    </mj-section>
+     <mj-section padding="30px 30px 30px" background-color="#101010">
+      <mj-column>
+        <mj-text font-size="20px" color="#FFFFFF" font-weight="500"> Space for your H2 </mj-text>
+        <mj-text align="left" color="#F5F5F5" font-size="14px" line-height="160%">Ipsum a arcu cursus vitae congue mauris rhoncus aenean vel. Elementum eu facilisis sed odio morbi quis commodo odio. Morbi leo urna molestie at elementum eu facilisis sed. Adipiscing at in tellus integer feugiat scelerisque varius. Magna fringilla urna porttitor rhoncus.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="30px 0px 0px 30px" background-color="#000000">
