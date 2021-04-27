@@ -10,7 +10,7 @@
     <mj-section padding="7px 10px">
       <mj-group>
         <mj-column vertical-align="middle">
-          <mj-image padding="0px" align="left" width="101px" height="31px" src="https://ik.imagekit.io/i8rbxze9n/emailTemplate/logo-png_1naYZgfYA1G.png">
+          <mj-image padding="0px" align="left" width="101px" height="31px" src="https://ik.imagekit.io/4thwhale/Emails/Email_1/logo_Mfc5d4XbK.png">
           </mj-image>
         </mj-column>
         <mj-column vertical-align="middle">
@@ -18,7 +18,7 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-hero mode="fixed-height" height="300px" background-width="600px" background-height="300px" background-url="https://ik.imagekit.io/i8rbxze9n/emailTemplate/hero_ghk1nCeJj.png" background-color="#313131" padding="15px 0px 0px">
+    <mj-hero mode="fixed-height" height="300px" background-width="600px" background-height="300px" background-url="https://ik.imagekit.io/4thwhale/Emails/Email_1/hero_VYnIpRtNvL1.png" background-color="#313131" padding="15px 0px 0px">
       <mj-text padding="0px" color="#313131" font-size="8px"> Tiny text space for email subject line </mj-text>
       <mj-spacer height="15px"></mj-spacer>
       <mj-text padding="0px" color="#000000" font-size="24px"> Space for your H1 </mj-text>
@@ -34,36 +34,36 @@
       <mj-section padding="20px 30px 0px">
         <mj-group>
           <mj-column vertical-align="middle">
-            <mj-image src="https://ik.imagekit.io/i8rbxze9n/emailTemplate/feature-img-1_lskhcntoN.png" width="100px" height="100px" padding="0px 0px 30px"></mj-image>
+            <mj-image src="https://ik.imagekit.io/4thwhale/Emails/Email_1/feature-img-1_u76kUaHpd8p.png" width="100px" height="100px" padding="0px 0px 30px"></mj-image>
           </mj-column>
           <mj-column vertical-align="middle">
-            <mj-text align="left" padding="0px 0px 30px" font-size="14px"> Elit duis tristique sollicitudin nibh sit amet commodo. </mj-text>
+            <mj-text align="left" padding="0px 0px 30px" font-size="14px" line-height="140%"> Elit duis tristique sollicitudin nibh sit amet commodo. </mj-text>
           </mj-column>
         </mj-group>
         <mj-group>
           <mj-column vertical-align="middle">
-            <mj-image src="https://ik.imagekit.io/i8rbxze9n/emailTemplate/feature-img-2_XlEHOGb5MUv.png" width="100px" height="100px" padding="0px 0px 30px"></mj-image>
+            <mj-image src="https://ik.imagekit.io/4thwhale/Emails/Email_1/feature-img-2_bNeeMuX-M.png" width="100px" height="100px" padding="0px 0px 30px"></mj-image>
           </mj-column>
           <mj-column vertical-align="middle">
-            <mj-text align="left" padding="0px 0px 30px" font-size="14px"> Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. </mj-text>
+            <mj-text align="left" padding="0px 0px 30px" font-size="14px" line-height="140%"> Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. </mj-text>
           </mj-column>
         </mj-group>
       </mj-section>
       <mj-section padding="0px 30px 0px">
         <mj-group>
           <mj-column vertical-align="middle">
-            <mj-image src="https://ik.imagekit.io/i8rbxze9n/emailTemplate/feature-img-3_AOreUdF2f.png" width="100px" height="100px" padding="0px 0px 30px"></mj-image>
+            <mj-image src="https://ik.imagekit.io/4thwhale/Emails/Email_1/feature-img-3_E8ORsDiAKn.png" width="100px" height="100px" padding="0px 0px 30px"></mj-image>
           </mj-column>
           <mj-column vertical-align="middle">
-            <mj-text align="left" padding="0px 0px 30px" font-size="14px"> Tincidunt lobortis feugiat vivamus at augue eget arcu. </mj-text>
+            <mj-text align="left" padding="0px 0px 30px" font-size="14px" line-height="140%"> Tincidunt lobortis feugiat vivamus at augue eget arcu. </mj-text>
           </mj-column>
         </mj-group>
         <mj-group>
           <mj-column vertical-align="middle">
-            <mj-image src="https://ik.imagekit.io/i8rbxze9n/emailTemplate/feature-img-4__9RpzkTSMZ.png" width="100px" height="100px" padding="0px 0px 30px"></mj-image>
+            <mj-image src="https://ik.imagekit.io/4thwhale/Emails/Email_1/feature-img-4_HmoK3_4zn.png" width="100px" height="100px" padding="0px 0px 30px"></mj-image>
           </mj-column>
           <mj-column vertical-align="middle">
-            <mj-text align="left" padding="0px 0px 30px" font-size="14px">Nullam non nisi est sit amet facilisis.</mj-text>
+             <mj-text align="left" padding="0px 0px 30px" font-size="14px" line-height="140%">Nullam non nisi est sit amet facilisis.</mj-text>
           </mj-column>
         </mj-group>
       </mj-section>
@@ -78,7 +78,7 @@
       <mj-group width="350px">
         <mj-column>
           <mj-social align="left" icon-size="20px" mode="horizontal">
-            <mj-social-element src="https://ik.imagekit.io/i8rbxze9n/emailTemplate/discover-png_AeYmyFeWYgR.png" color="#BDBDBD" font-size="14px" font-weight="500" text-padding="0px 0px 0px 5px"> DISCOVER </mj-social-element>
+            <mj-social-element src="https://ik.imagekit.io/4thwhale/Emails/Email_1/discover-icon_j7Xy1PKYe.png" color="#BDBDBD" font-size="14px" font-weight="500" text-padding="0px 0px 0px 5px"> DISCOVER </mj-social-element>
           </mj-social>
           <mj-text align="left">
             <a href="/" style="color: #BDBDBD;text-decoration:none;font-size: 12px;">Home</a>
@@ -91,7 +91,7 @@
         </mj-column>
         <mj-column>
           <mj-social align="left" icon-size="20px" mode="horizontal">
-            <mj-social-element src="https://ik.imagekit.io/i8rbxze9n/emailTemplate/support-png_tJRpjr4EvfTW.png" color="#BDBDBD" font-size="14px" font-weight="500" text-padding="0px 0px 0px 5px"> SUPPORT </mj-social-element>
+            <mj-social-element src="https://ik.imagekit.io/4thwhale/Emails/Email_1/support-icon_2CTkYyoAmPg.png" color="#BDBDBD" font-size="14px" font-weight="500" text-padding="0px 0px 0px 5px"> SUPPORT </mj-social-element>
           </mj-social>
           <mj-text align="left">
             <a href="/" style="color: #BDBDBD;text-decoration:none;font-size: 12px;">Live Chat Support</a>
@@ -113,7 +113,7 @@
     </mj-section>
     <mj-section padding="0px 30px 30px">
       <mj-column>
-        <mj-image src="https://ik.imagekit.io/i8rbxze9n/emailTemplate/logos-png_xeuRGjBwJoV.png" width="175px" height="20px" padding="0px"></mj-image>
+        <mj-image src="https://ik.imagekit.io/4thwhale/Emails/Email_1/footer-logo_8ZCssdjfH.png" width="175px" height="20px" padding="0px"></mj-image>
         <mj-text color="#BDBDBD" padding="30px 0px 0px">
           <a href="/" style="color: #BDBDBD;text-decoration:none;font-size: 12px;padding:0px 5px 0px 0px" >
           Terms and Conditions
