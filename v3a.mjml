@@ -14,24 +14,19 @@
           </mj-image>
         </mj-column>
         <mj-column vertical-align="middle">
-          <mj-button padding="0px" align="right" background-color="#BDBDBD" color="#000000" font-size="16px" font-weight="500" inner-padding="8px 16px" font-family="Roboto" border-radius="5px"> Login </mj-button>
+          <mj-button padding="0px" align="right" background-color="#BDBDBD" color="#000000" font-size="16px" font-weight="500" border-radius="5px" inner-padding="8px 16px" font-family="Roboto"> Login </mj-button>
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-hero mode="fixed-height" height="300px" background-width="600px" background-height="300px" background-url="https://ik.imagekit.io/4thwhale/Emails/Email_1/hero_VYnIpRtNvL1.png" background-color="#313131" padding="15px 0px 0px">
-      <mj-text padding="0px" color="#313131" font-size="8px"> Tiny text space for email subject line </mj-text>
-      <mj-spacer height="15px"></mj-spacer>
-      <mj-text padding="0px" color="#000000" font-size="24px"> Space for your H1 </mj-text>
-      <mj-button inner-padding="8px 16px" padding="170px 0px 0px" background-color="#FFC107" color="#000000" font-weight="500" font-size="16px" font-family="Roboto" border-radius="5px"> Button </mj-button>
-    </mj-hero>
-    <mj-wrapper padding="0px" background-color="#313131">
-      <mj-section padding="30px 30px 20px">
+    <mj-wrapper padding="0px" >
+      <mj-section padding="15px 30px 20px" background-color="#000000">
         <mj-column>
-          <mj-text font-size="20px" color="#FFC107" font-weight="500"> Space for your H2 </mj-text>
-          <mj-text align="left" color="#F5F5F5" font-size="14px" line-height="160%"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nisi scelerisque eu ultrices. Pulvinar etiam non quam lacus suspendisse faucibus interdum. Ornare suspendisse sed nisi lacus sed viverra tellus in. </mj-text>
+          <mj-text padding="0px 0px 15px" color="#BDBDBD" font-size="8px"> Tiny text space for email subject line </mj-text>
+          <mj-text padding="0px" font-size="24px" color="#FFFFFF" font-weight="400" > Space for your H1 </mj-text>
+          <mj-text padding="15px 0px 0px" align="left" color="#F5F5F5" font-size="14px" line-height="160%"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nisi scelerisque eu ultrices. Pulvinar etiam non quam lacus suspendisse faucibus interdum. Ornare suspendisse sed nisi lacus sed viverra tellus in. </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section padding="20px 30px 0px">
+      <mj-section padding="20px 30px 0px" background-color="#000000">
         <mj-group>
           <mj-column vertical-align="middle">
             <mj-image src="https://ik.imagekit.io/4thwhale/Emails/Email_1/feature-img-1_u76kUaHpd8p.png" width="100px" height="100px" padding="0px 0px 30px"></mj-image>
@@ -49,7 +44,7 @@
           </mj-column>
         </mj-group>
       </mj-section>
-      <mj-section padding="0px 30px 0px">
+      <mj-section padding="0px 30px 0px" background-color="#000000">
         <mj-group>
           <mj-column vertical-align="middle">
             <mj-image src="https://ik.imagekit.io/4thwhale/Emails/Email_1/feature-img-3_E8ORsDiAKn.png" width="100px" height="100px" padding="0px 0px 30px"></mj-image>
@@ -66,15 +61,25 @@
              <mj-text align="left" padding="0px 0px 30px" font-size="14px" line-height="140%">Nullam non nisi est sit amet facilisis.</mj-text>
           </mj-column>
         </mj-group>
+        
+        
+      </mj-section>
+      <mj-section padding="0px">
+      	<mj-column padding="0px 0px 20px" background-color="#000000">
+          <mj-button inner-padding="8px 16px" padding="30px 0px 0px" background-color="#FFC107" color="#000000" font-weight="500" font-size="16px" font-family="Roboto" border-radius="5px"> Button </mj-button>
+        </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-section padding="30px 30px 20px" background-color="#101010">
+    <mj-section padding="30px 30px 30px" background-color="#313131">
       <mj-column>
-        <mj-text font-size="20px" color="#FFC107" font-weight="500"> Space for your H2 </mj-text>
-        <mj-text align="left" color="#F5F5F5" font-size="14px" line-height="160%"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nisi scelerisque eu ultrices. Pulvinar etiam non quam lacus suspendisse faucibus interdum. Ornare suspendisse sed nisi lacus sed viverra tellus in. </mj-text>
+        <mj-text font-size="20px" color="#FFFFFF" font-weight="500"> Space for your H2 </mj-text>
+        <mj-text align="left" color="#F5F5F5" font-size="14px" line-height="160%">Imperdiet proin fermentum leo vel orci porta non pulvinar neque. Tempus egestas sed sed risus pretium. Mauris sit amet massa vitae tortor. Vitae elementum curabitur vitae nunc.</mj-text>
+        <mj-text align="left" color="#F5F5F5" font-size="14px" line-height="160%">Ipsum a arcu cursus vitae congue mauris rhoncus aenean vel. Elementum eu facilisis sed odio morbi quis commodo odio.</mj-text>
+         <mj-text align="left" color="#F5F5F5" font-size="14px" line-height="160%">Morbi leo urna molestie at elementum eu facilisis sed. Adipiscing at in tellus integer feugiat scelerisque varius. Magna fringilla urna porttitor rhoncus.</mj-text>
+        <mj-text align="left" color="#F5F5F5" font-size="14px" line-height="160%">Vitae tempus quam pellentesque nec nam aliquam sem et. Sollicitudin tempor id eu nisl nunc mi ipsum. Dictum varius duis at consectetur lorem donec massa.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="30px 0px 0px 30px">
+    <mj-section padding="30px 0px 0px 30px" background-color="#000000">
       <mj-group width="350px">
         <mj-column>
           <mj-social align="left" icon-size="20px" mode="horizontal">
@@ -106,12 +111,12 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section  padding="30px 30px 30px">
+    <mj-section  padding="30px 30px 30px" background-color="#000000">
     	<mj-column>
        <mj-divider padding="0px" border-width="1px"  border-color="#BDBDBD"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section padding="0px 30px 30px">
+    <mj-section padding="0px 30px 30px" background-color="#000000">
       <mj-column>
         <mj-image src="https://ik.imagekit.io/4thwhale/Emails/Email_1/footer-logo_8ZCssdjfH.png" width="175px" height="20px" padding="0px"></mj-image>
         <mj-text color="#BDBDBD" padding="30px 0px 0px">
